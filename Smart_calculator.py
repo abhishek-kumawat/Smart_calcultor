@@ -1,5 +1,4 @@
-from tkinter import *
-
+Libraries tto be installed  
 def add(a,b):
     return a + b
 
