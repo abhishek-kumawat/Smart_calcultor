@@ -63,12 +63,12 @@ operations = {'ADD':add , 'ADDITION':add , 'SUM':add , 'PLUS':add ,
 
 win = Tk()
 win.geometry('500x300')
-win.title('Smart Pugger')
+win.title('Smart Abhi')
 win.configure(bg='lightskyblue')
 
 l1 = Label(win , text='I am a smart calculator',width=20 , padx=3)
 l1.place(x=150,y=10)
-l2 = Label(win , text='My name is Pugger' , padx=3)
+l2 = Label(win , text='My name is Kumawat' , padx=3)
 l2.place(x=180,y=40)
 l3 = Label(win , text='What can i help you' , padx=3)
 l3.place(x=176,y=130)
